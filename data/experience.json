@@ -1,0 +1,113 @@
+{
+  "heading": "$ ps aux --sort=start_time",
+  "positions": [
+    {
+      "pid": "1337",
+      "company": "St. Jude Children's Research Hospital",
+      "title": "Senior Data Analyst",
+      "location": "",
+      "startDate": "Oct 2022",
+      "endDate": "Present",
+      "status": "RUNNING",
+      "description": "Refactored legacy SQL reporting queries using CTEs and window functions, cutting average query runtime by ~40% across EMR, lab, and enterprise systems and reducing dashboard load times for 10+ clinical departments. Built and maintained Power BI dashboards and SSRS reports tracking patient throughput KPIs, SLA turnaround times, and workflow compliance metrics; leadership used these to reallocate staffing and cut SLA misses by 25%. Wrote Python (Pandas) and Advanced Excel validation routines for source-to-target reconciliation on high-volume datasets, catching data quality issues before delivery and dropping stakeholder-reported report errors by roughly 30%. Led Snowflake-based cross-system data reconciliation across four enterprise platforms, identified and resolved a recurring discrepancy affecting financial reporting that had gone undetected for two quarters. Built and maintained audit-ready documentation packages covering data lineage, field definitions, and SOP methodology to support HIPAA compliance and regulatory reviews; zero findings in the last two audit cycles. Acted as the primary data SME for operations, research, and finance teams, translating data lineage and anomaly findings into plain language so non-technical stakeholders could act on them without analyst support. Piloted Scikit-learn anomaly detection on structured clinical datasets to extend SQL-based QA, surfacing data integrity issues that traditional rule-based checks missed.",
+      "achievements": [
+        "Refactored legacy SQL reporting queries using CTEs and window functions, cutting average query runtime by ~40% across EMR, lab, and enterprise systems and reducing dashboard load times for 10+ clinical departments.",
+        "Built and maintained Power BI dashboards and SSRS reports tracking patient throughput KPIs, SLA turnaround times, and workflow compliance metrics; leadership used these to reallocate staffing and cut SLA misses by 25%.",
+        "Wrote Python (Pandas) and Advanced Excel validation routines for source-to-target reconciliation on high-volume datasets, catching data quality issues before delivery and dropping stakeholder-reported report errors by roughly 30%.",
+        "Led Snowflake-based cross-system data reconciliation across four enterprise platforms, identified and resolved a recurring discrepancy affecting financial reporting that had gone undetected for two quarters.",
+        "Built and maintained audit-ready documentation packages covering data lineage, field definitions, and SOP methodology to support HIPAA compliance and regulatory reviews; zero findings in the last two audit cycles."
+      ],
+      "technologies": [
+        "SQL",
+        "CTEs",
+        "Power BI",
+        "SSRS",
+        "Python",
+        "Pandas",
+        "Snowflake",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "pid": "1237",
+      "company": "AbbVie Pharmaceuticals",
+      "title": "Senior Data Analyst",
+      "location": "",
+      "startDate": "Jun 2020",
+      "endDate": "Sep 2022",
+      "status": "STOPPED",
+      "description": "Ran QA checks and SQL reconciliations across large operational and financial datasets in a GxP environment; maintained 99%+ data accuracy across quarterly reporting cycles submitted to senior leadership. Built Excel scorecards using Pivot Tables, Macros, and Power Query, plus Tableau-ready datasets, to track compliance KPIs for legal, finance, and vendor teams; reduced manual reporting effort by an estimated 6 hours per cycle. Produced Power BI and SSRS presentations translating analytical findings into risk summaries reviewed by senior leadership, directly informing two process changes in the vendor compliance workflow. Wrote validation SOPs and reporting controls that cut new-analyst onboarding time by about 3 weeks by giving them a documented, repeatable process to follow from day one.",
+      "achievements": [
+        "Ran QA checks and SQL reconciliations across large operational and financial datasets in a GxP environment; maintained 99%+ data accuracy across quarterly reporting cycles submitted to senior leadership.",
+        "Built Excel scorecards using Pivot Tables, Macros, and Power Query, plus Tableau-ready datasets, to track compliance KPIs for legal, finance, and vendor teams; reduced manual reporting effort by an estimated 6 hours per cycle.",
+        "Produced Power BI and SSRS presentations translating analytical findings into risk summaries reviewed by senior leadership, directly informing two process changes in the vendor compliance workflow.",
+        "Wrote validation SOPs and reporting controls that cut new-analyst onboarding time by about 3 weeks by giving them a documented, repeatable process to follow from day one."
+      ],
+      "technologies": [
+        "SQL",
+        "Excel",
+        "Pivot Tables",
+        "Macros",
+        "Power Query",
+        "Tableau",
+        "Power BI",
+        "SSRS"
+      ]
+    },
+    {
+      "pid": "1137",
+      "company": "FedEx Services",
+      "title": "Data Analyst",
+      "location": "",
+      "startDate": "Jan 2019",
+      "endDate": "May 2020",
+      "status": "STOPPED",
+      "description": "Built SQL Server and Excel reporting pipelines to extract, validate, and deliver transaction-level operational and financial data; set up job monitoring that caught completeness issues before stakeholder delivery, dropping late-report incidents by 35%. Supported UAT cycles by designing test extracts and running expected-vs-actual comparisons; documented defects that contributed to a faster QA sign-off process across two major release cycles. Applied data profiling across source systems to find structural inconsistencies early, which reduced post-delivery correction requests significantly.",
+      "achievements": [
+        "Built SQL Server and Excel reporting pipelines to extract, validate, and deliver transaction-level operational and financial data; set up job monitoring that caught completeness issues before stakeholder delivery, dropping late-report incidents by 35%.",
+        "Supported UAT cycles by designing test extracts and running expected-vs-actual comparisons; documented defects that contributed to a faster QA sign-off process across two major release cycles.",
+        "Applied data profiling across source systems to find structural inconsistencies early, which reduced post-delivery correction requests significantly."
+      ],
+      "technologies": [
+        "SQL Server",
+        "Excel"
+      ]
+    },
+    {
+      "pid": "1037",
+      "company": "UMRF Ventures",
+      "title": "Data Analyst",
+      "location": "",
+      "startDate": "Dec 2017",
+      "endDate": "Dec 2018",
+      "status": "STOPPED",
+      "description": "Built and maintained SQL and Advanced Excel pipelines for recurring KPI dashboards, with data profiling and cleansing steps that kept reporting outputs consistent across systems. Automated several manual reporting workflows using Excel Macros, cutting report generation time by around 4 hours per week and removing a common source of copy-paste errors.",
+      "achievements": [
+        "Built and maintained SQL and Advanced Excel pipelines for recurring KPI dashboards, with data profiling and cleansing steps that kept reporting outputs consistent across systems.",
+        "Automated several manual reporting workflows using Excel Macros, cutting report generation time by around 4 hours per week and removing a common source of copy-paste errors."
+      ],
+      "technologies": [
+        "SQL",
+        "Excel",
+        "Macros"
+      ]
+    },
+    {
+      "pid": "937",
+      "company": "Advithri Technologies",
+      "title": "Data Analyst Intern",
+      "location": "",
+      "startDate": "Nov 2016",
+      "endDate": "Jul 2017",
+      "status": "STOPPED",
+      "description": "Prepared and standardized source datasets for reporting workflows using SQL and Excel; supported defect tracking and revalidation during a data migration that covered 500K+ records.",
+      "achievements": [
+        "Prepared and standardized source datasets for reporting workflows using SQL and Excel; supported defect tracking and revalidation during a data migration that covered 500K+ records."
+      ],
+      "technologies": [
+        "SQL",
+        "Excel"
+      ]
+    }
+  ]
+}

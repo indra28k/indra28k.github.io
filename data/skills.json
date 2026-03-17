@@ -1,0 +1,68 @@
+{
+  "heading": "$ ls -la skills/",
+  "categories": [
+    {
+      "name": "languages",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "SQL (CTEs, Window Functions, Stored Procedures)",
+        "Python",
+        "DAX",
+        "MDX",
+        "VBA"
+      ]
+    },
+    {
+      "name": "frameworks",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "Pandas",
+        "Scikit-learn",
+        "NumPy"
+      ]
+    },
+    {
+      "name": "tools",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "Power BI",
+        "Tableau",
+        "SSRS",
+        "Advanced Excel",
+        "Snowflake",
+        "SQL Server",
+        "Oracle",
+        "MySQL",
+        "MS Access",
+        "Azure SQL",
+        "Jupyter Notebooks",
+        "JIRA",
+        "SharePoint",
+        "Smartsheet",
+        "ServiceNow"
+      ]
+    },
+    {
+      "name": "technical",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "ETL Pipeline Development",
+        "Data Profiling",
+        "Source-to-Target Reconciliation",
+        "Data Validation",
+        "Data Governance",
+        "Anomaly Detection",
+        "Predictive Modeling",
+        "Logistic Regression",
+        "Decision Trees",
+        "NLP",
+        "KPI Dashboards",
+        "HIPAA",
+        "GxP",
+        "Audit-Ready SOPs",
+        "Regulatory Documentation"
+      ]
+    }
+  ],
+  "githubUsername": "indra28k"
+}

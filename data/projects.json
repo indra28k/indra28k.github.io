@@ -1,0 +1,90 @@
+{
+  "heading": "$ find ~/projects -type d -maxdepth 1",
+  "projects": [
+    {
+      "name": "retail-data-analytics-project-python-sql-integration",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/indra28k/retail-data-analytics-project-python-sql-integration",
+      "isNew": false
+    },
+    {
+      "name": "comprehensive-healthcare-analytics",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [
+        "Python"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/indra28k/comprehensive-healthcare-analytics",
+      "isNew": false
+    },
+    {
+      "name": "mlops-end-to-end-project",
+      "description": "Interactive application built for continuous learning",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML",
+        "Shell"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/indra28k/mlops-end-to-end-project",
+      "isNew": false
+    },
+    {
+      "name": "sentiment-analysis-webapp-sagemaker",
+      "description": "Learning project built with modern web technologies",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/indra28k/sentiment-analysis-webapp-sagemaker",
+      "isNew": false
+    },
+    {
+      "name": "customer-churn-prediction",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [
+        "Python"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/indra28k/customer-churn-prediction",
+      "isNew": false
+    },
+    {
+      "name": "anomaly-detection",
+      "description": "Full-featured application built as a learning exercise",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/indra28k/anomaly-detection",
+      "isNew": false
+    }
+  ]
+}

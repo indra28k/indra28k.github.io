@@ -1,0 +1,22 @@
+{
+  "copyright": "Indra Kumar Siripurapu",
+  "year": "2026",
+  "tagline": "Built with vanilla HTML/CSS/JS. No frameworks harmed.",
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/indra28k",
+      "icon": "github"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/indra28k",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:indrasiripurapu91@gmail.com",
+      "icon": "email"
+    }
+  ]
+}

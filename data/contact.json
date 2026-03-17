@@ -1,0 +1,13 @@
+{
+  "heading": "$ mail -s 'Hello' visitor@portfolio",
+  "subheading": "I'm always interested in hearing about new projects and opportunities. Let's connect.",
+  "email": "indrasiripurapu91@gmail.com",
+  "phone": "(901) 552-6016",
+  "location": "Memphis, TN",
+  "availability": "Open to opportunities",
+  "socialLinks": {
+    "github": "https://github.com/indra28k",
+    "linkedin": "https://www.linkedin.com/in/indra28k"
+  },
+  "formAction": ""
+}

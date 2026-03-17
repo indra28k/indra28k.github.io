@@ -1,0 +1,54 @@
+{
+  "asciiName": [
+    "==========================",
+    "  Indra Kumar Siripurapu  ",
+    "=========================="
+  ],
+  "name": "Indra Kumar Siripurapu",
+  "tagline": "Available for work",
+  "roles": [
+    "Senior Data Analyst | Business Intelligence & Analytics",
+    "Senior Data Analyst",
+    "Data Analyst",
+    "Data Analyst Intern"
+  ],
+  "bootSequence": [
+    "[OK] Loading kernel modules...",
+    "[OK] Initializing network interfaces...",
+    "[OK] Mounting filesystems...",
+    "[OK] Starting SSH daemon...",
+    "[OK] Loading portfolio data...",
+    "[OK] System ready."
+  ],
+  "techTags": [
+    "SQL (CTEs, Window Functions, Stored Procedures)",
+    "Python",
+    "DAX",
+    "MDX",
+    "VBA",
+    "Pandas"
+  ],
+  "socialLinks": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/indra28k",
+      "icon": "github"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/indra28k",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:indrasiripurapu91@gmail.com",
+      "icon": "email"
+    }
+  ],
+  "resumeUrl": "",
+  "stats": {
+    "experience": "4+ years",
+    "projects": 4,
+    "commits": "500+"
+  }
+}

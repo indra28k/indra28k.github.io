@@ -1,0 +1,15 @@
+{
+  "heading": "$ cat /var/log/education.log",
+  "entries": [
+    {
+      "institution": "University of Memphis",
+      "degree": "M.S.",
+      "field": "Information Systems",
+      "startDate": "Aug 2017",
+      "endDate": "Dec 2018",
+      "gpa": "3.14",
+      "honors": []
+    }
+  ],
+  "certifications": []
+}

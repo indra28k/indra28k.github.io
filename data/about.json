@@ -1,0 +1,22 @@
+{
+  "heading": "$ cat about.md",
+  "bio": [
+    "Senior Data Analyst with 8+ years of experience in healthcare and pharmaceutical environments. Strong SQL foundation (CTEs, window functions, stored procedures), with hands-on work in Power BI, Snowflake, SSRS, and Advanced Excel. Have been building out a Python/ML side over the past few years covering anomaly detection, predictive modeling, and NLP.",
+    "Most of my work sits at the intersection of data quality and executive reporting: making sure the numbers are right before they go up the chain, and making sure the people at the top can actually use them. Comfortable in regulated environments (HIPAA, GxP) and have served as the go-to data person across ops, finance, and research teams."
+  ],
+  "highlights": [
+    {
+      "label": "Years Experience",
+      "value": "4+"
+    },
+    {
+      "label": "Projects Completed",
+      "value": "4+"
+    },
+    {
+      "label": "Technologies",
+      "value": "38+"
+    }
+  ],
+  "currentFocus": "Senior Data Analyst | Business Intelligence & Analytics"
+}

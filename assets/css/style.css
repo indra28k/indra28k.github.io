@@ -931,29 +931,12 @@ main {
   padding: 1.5rem;
   transition: var(--transition);
   position: relative;
-}
-
-.skill-category-card::before {
-  content: '';
-  position: absolute;
-  top: 2px;
-  left: 2px;
-  right: -4px;
-  bottom: -4px;
-  background: var(--border);
-  z-index: -1;
-  transition: var(--transition);
+  box-shadow: 4px 4px 0px 0px var(--border);
 }
 
 .skill-category-card:hover {
   transform: translate(-2px, -2px);
-}
-
-.skill-category-card:hover::before {
-  top: 4px;
-  left: 4px;
-  right: -6px;
-  bottom: -6px;
+  box-shadow: 6px 6px 0px 0px var(--border);
 }
 
 .skill-category-name {
